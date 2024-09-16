@@ -1,0 +1,690 @@
+Date/Time:       2024-09-16 17:22:54 
+Command line:    C:\Users\clema\.pyenv\pyenv-win\versions\3.11.7\Scripts\briefcase build android
+
+OS Release:      Windows 10
+OS Version:      10.0.22631
+Architecture:    AMD64
+Platform:        Windows-10-10.0.22631-SP0
+
+Python exe:      C:\Users\clema\.pyenv\pyenv-win\versions\3.11.7\python.exe
+Python version:  3.11.7 (tags/v3.11.7:fa7a6f2, Dec  4 2023, 19:24:49) [MSC v.1937 64 bit (AMD64)]
+Virtual env:     False
+Conda env:       False
+
+Briefcase:       0.3.19
+Target platform: android
+Target format:   gradle
+
+Environment Variables:
+	ALLUSERSPROFILE=C:\ProgramData
+	APPDATA=C:\Users\clema\AppData\Roaming
+	BINDIR=C:\Users\clema\.pyenv\pyenv-win\versions\3.11.7
+	CHOCOLATEYINSTALL=C:\ProgramData\chocolatey
+	CHOCOLATEYLASTPATHUPDATE=133667517113998764
+	CHROME_CRASHPAD_PIPE_NAME=\\.\pipe\crashpad_19596_VTMRTZELCAGQAAOY
+	CMDLINE=briefcase build android
+	COLORTERM=truecolor
+	COMMANDS=rehash global local version vname version-name versions commands shims which whence help --help
+	COMMONPROGRAMFILES=C:\Program Files\Common Files
+	COMMONPROGRAMFILES(X86)=C:\Program Files (x86)\Common Files
+	COMMONPROGRAMW6432=C:\Program Files\Common Files
+	COMPUTERNAME=JUNIOR
+	COMSPEC=C:\WINDOWS\system32\cmd.exe
+	DRIVERDATA=C:\Windows\System32\Drivers\DriverData
+	EFC_1816=1
+	EXTRAPATHS=C:\Users\clema\.pyenv\pyenv-win\versions\3.11.7;C:\Users\clema\.pyenv\pyenv-win\versions\3.11.7\Scripts;C:\Users\clema\AppData\Roaming\Python\Python311\Scripts;
+	GIT_ASKPASS=********************
+	HOMEDRIVE=C:
+	HOMEPATH=\Users\clema
+	LANG=en_US.UTF-8
+	LOCALAPPDATA=C:\Users\clema\AppData\Local
+	LOGONSERVER=\\JUNIOR
+	NUMBER_OF_PROCESSORS=16
+	NVM_HOME=C:\Users\clema\AppData\Roaming\nvm
+	NVM_SYMLINK=C:\Program Files\nodejs
+	ONEDRIVE=C:\Users\clema\OneDrive
+	ONEDRIVECONSUMER=C:\Users\clema\OneDrive
+	ORIGINAL_XDG_CURRENT_DESKTOP=undefined
+	OS=Windows_NT
+	PATH=C:\Users\clema\.pyenv\pyenv-win\versions\3.11.7;C:\Users\clema\.pyenv\pyenv-win\versions\3.11.7\Scripts;C:\Users\clema\AppData\Roaming\Python\Python311\Scripts;C:\Windows\System32;C:\Windows;C:\Windows\System32\wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Git\cmd;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\chocolatey\bin;C:\Users\clema\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Users\clema\AppData\Local\Android\Sdk\platform-tools;C:\Users\clema\AppData\Local\Android\Sdk\emulator;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Users\clema\.pyenv\pyenv-win\bin;C:\Users\clema\AppData\Local\Programs\Microsoft VS Code\bin;C:\cmder;C:\Users\clema\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Users\clema\AppData\Local\Android\Sdk\emulator;C:\Users\clema\AppData\Local\Android\Sdk\platform-tools;C:\Users\clema\.dotnet\tools;
+	PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CPL
+	PROCESSOR_ARCHITECTURE=AMD64
+	PROCESSOR_IDENTIFIER=AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD
+	PROCESSOR_LEVEL=23
+	PROCESSOR_REVISION=6001
+	PROGRAMDATA=C:\ProgramData
+	PROGRAMFILES=C:\Program Files
+	PROGRAMFILES(X86)=C:\Program Files (x86)
+	PROGRAMW6432=C:\Program Files
+	PROMPT=$P$G
+	PSMODULEPATH=C:\Users\clema\OneDrive\Documentos\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+	PUBLIC=C:\Users\Public
+	PYENV=cscript //nologo "C:\Users\clema\.pyenv\pyenv-win\bin\..\libexec\pyenv.vbs"
+	PYTHON_SHIMS=C:\Users\clema\.pyenv\pyenv-win\shims
+	SESSIONNAME=Console
+	SKIP=0
+	SYSTEMDRIVE=C:
+	SYSTEMROOT=C:\WINDOWS
+	TEMP=C:\Users\clema\AppData\Local\Temp
+	TERM_PROGRAM=vscode
+	TERM_PROGRAM_VERSION=1.93.1
+	TMP=C:\Users\clema\AppData\Local\Temp
+	USERDOMAIN=JUNIOR
+	USERDOMAIN_ROAMINGPROFILE=JUNIOR
+	USERNAME=clema
+	USERPROFILE=C:\Users\clema
+	VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\
+	VSCODE_GIT_ASKPASS_EXTRA_ARGS=********************
+	VSCODE_GIT_ASKPASS_MAIN=********************
+	VSCODE_GIT_ASKPASS_NODE=********************
+	VSCODE_GIT_IPC_HANDLE=\\.\pipe\vscode-git-6924e6c18f-sock
+	VSCODE_INJECTION=1
+	WINDIR=C:\WINDOWS
+	_PATH=C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Git\cmd;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\chocolatey\bin;C:\Users\clema\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Users\clema\AppData\Local\Android\Sdk\platform-tools;C:\Users\clema\AppData\Local\Android\Sdk\emulator;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Users\clema\.pyenv\pyenv-win\bin;C:\Users\clema\.pyenv\pyenv-win\shims;C:\Users\clema\AppData\Local\Programs\Microsoft VS Code\bin;C:\cmder;C:\Users\clema\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Users\clema\AppData\Local\Android\Sdk\emulator;C:\Users\clema\AppData\Local\Android\Sdk\platform-tools;C:\Users\clema\.dotnet\tools
+	__PSLOCKDOWNPOLICY=0
+
+pyproject.toml:
+# This project was generated with 0.3.19 using template: https://github.com/beeware/briefcase-template@v0.3.19
+[tool.briefcase]
+project_name = "Brick-game"
+bundle = "com.example"
+version = "0.0.1"
+url = "https://example.com/brickgame"
+license.file = "LICENSE"
+author = "Jane Developer"
+author_email = "jane@example.com"
+
+[tool.briefcase.app.brickgame]
+formal_name = "Brick-game"
+description = "My first application"
+long_description = """More details about the app should go here.
+"""
+sources = [
+    "src/brickgame",
+]
+test_sources = [
+    "tests",
+]
+
+requires = [
+]
+test_requires = [
+    "pytest",
+]
+
+[tool.briefcase.app.brickgame.macOS]
+universal_build = true
+requires = [
+    "toga-cocoa~=0.4.5",
+    "std-nslog~=1.0.0",
+]
+
+[tool.briefcase.app.brickgame.linux]
+requires = [
+    "toga-gtk~=0.4.5",
+]
+
+[tool.briefcase.app.brickgame.linux.system.debian]
+system_requires = [
+    # Needed to compile pycairo wheel
+    "libcairo2-dev",
+    # Needed to compile PyGObject wheel
+    "libgirepository1.0-dev",
+]
+
+system_runtime_requires = [
+    # Needed to provide GTK and its GI bindings
+    "gir1.2-gtk-3.0",
+    "libgirepository-1.0-1",
+    # Dependencies that GTK looks for at runtime
+    "libcanberra-gtk3-module",
+    # Needed to provide WebKit2 at runtime
+    # Note: Debian 11 and Ubuntu 20.04 require gir1.2-webkit2-4.0 instead
+    # "gir1.2-webkit2-4.1",
+]
+
+[tool.briefcase.app.brickgame.linux.system.rhel]
+system_requires = [
+    # Needed to compile pycairo wheel
+    "cairo-gobject-devel",
+    # Needed to compile PyGObject wheel
+    "gobject-introspection-devel",
+]
+
+system_runtime_requires = [
+    # Needed to support Python bindings to GTK
+    "gobject-introspection",
+    # Needed to provide GTK
+    "gtk3",
+    # Dependencies that GTK looks for at runtime
+    "libcanberra-gtk3",
+    # Needed to provide WebKit2 at runtime
+    # "webkit2gtk3",
+]
+
+[tool.briefcase.app.brickgame.linux.system.suse]
+system_requires = [
+    # Needed to compile pycairo wheel
+    "cairo-devel",
+    # Needed to compile PyGObject wheel
+    "gobject-introspection-devel",
+]
+
+system_runtime_requires = [
+    # Needed to provide GTK
+    "gtk3",
+    # Needed to support Python bindings to GTK
+    "gobject-introspection", "typelib(Gtk) = 3.0",
+    # Dependencies that GTK looks for at runtime
+    "libcanberra-gtk3-module",
+    # Needed to provide WebKit2 at runtime
+    # "libwebkit2gtk3", "typelib(WebKit2)",
+]
+
+[tool.briefcase.app.brickgame.linux.system.arch]
+system_requires = [
+    # Needed to compile pycairo wheel
+    "cairo",
+    # Needed to compile PyGObject wheel
+    "gobject-introspection",
+    # Runtime dependencies that need to exist so that the
+    # Arch package passes final validation.
+    # Needed to provide GTK
+    "gtk3",
+    # Dependencies that GTK looks for at runtime
+    "libcanberra",
+    # Needed to provide WebKit2
+    # "webkit2gtk",
+]
+
+system_runtime_requires = [
+    # Needed to provide GTK
+    "gtk3",
+    # Needed to provide PyGObject bindings
+    "gobject-introspection-runtime",
+    # Dependencies that GTK looks for at runtime
+    "libcanberra",
+    # Needed to provide WebKit2 at runtime
+    # "webkit2gtk",
+]
+
+[tool.briefcase.app.brickgame.linux.appimage]
+manylinux = "manylinux_2_28"
+
+system_requires = [
+    # Needed to compile pycairo wheel
+    "cairo-gobject-devel",
+    # Needed to compile PyGObject wheel
+    "gobject-introspection-devel",
+    # Needed to provide GTK
+    "gtk3-devel",
+    # Dependencies that GTK looks for at runtime, that need to be
+    # in the build environment to be picked up by linuxdeploy
+    "libcanberra-gtk3",
+    "PackageKit-gtk3-module",
+    "gvfs-client",
+]
+
+linuxdeploy_plugins = [
+    "DEPLOY_GTK_VERSION=3 gtk",
+]
+
+[tool.briefcase.app.brickgame.linux.flatpak]
+flatpak_runtime = "org.gnome.Platform"
+flatpak_runtime_version = "45"
+flatpak_sdk = "org.gnome.Sdk"
+
+[tool.briefcase.app.brickgame.windows]
+requires = [
+    "toga-winforms~=0.4.5",
+]
+
+# Mobile deployments
+[tool.briefcase.app.brickgame.iOS]
+requires = [
+    "toga-iOS~=0.4.5",
+    "std-nslog~=1.0.0",
+]
+
+[tool.briefcase.app.brickgame.android]
+requires = [
+    "toga-android~=0.4.5",
+]
+
+base_theme = "Theme.MaterialComponents.Light.DarkActionBar"
+
+build_gradle_dependencies = [
+    "com.google.android.material:material:1.11.0",
+    # Needed for DetailedList
+    # "androidx.swiperefreshlayout:swiperefreshlayout:1.1.0",
+    # Needed for MapView
+    # "org.osmdroid:osmdroid-android:6.1.0",
+]
+
+# Web deployments
+[tool.briefcase.app.brickgame.web]
+requires = [
+    "toga-web~=0.4.5",
+]
+style_framework = "Shoelace v2.3"
+
+Briefcase Log:
+[17:22:35] Using JDK at C:\Users\clema\AppData\Local\BeeWare\briefcase\Cache\tools\java17                                                                                java.py:258
+           Using Android SDK at C:\Users\clema\AppData\Local\BeeWare\briefcase\Cache\tools\android_sdk                                                            android_sdk.py:362
+                                                                                                                                                                       gradle.py:319
+           [brickgame] Updating app metadata...                                                                                                                        gradle.py:319
+           Setting main module... started                                                                                                                              gradle.py:301
+           Setting main module... done                                                                                                                                 gradle.py:301
+                                                                                                                                                                       gradle.py:322
+           [brickgame] Building Android APK...                                                                                                                         gradle.py:322
+           Building... started                                                                                                                                         gradle.py:323
+           Android emulator is already installed.                                                                                                                 android_sdk.py:637
+                                                                                                                                                                   subprocess.py:827
+           >>> Running Command:                                                                                                                                    subprocess.py:827
+           >>>     'C:\Users\clema\OneDrive\Documentos\Brick\brickgame\build\brickgame\android\gradle\gradlew.bat' --console plain assembleDebug                   subprocess.py:827
+           >>> Working Directory:                                                                                                                                  subprocess.py:827
+           >>>     C:\Users\clema\OneDrive\Documentos\Brick\brickgame\build\brickgame\android\gradle                                                               subprocess.py:827
+           >>> Environment Overrides:                                                                                                                              subprocess.py:827
+           >>>     ANDROID_HOME=C:\Users\clema\AppData\Local\BeeWare\briefcase\Cache\tools\android_sdk                                                             subprocess.py:827
+           >>>     ANDROID_SDK_ROOT=C:\Users\clema\AppData\Local\BeeWare\briefcase\Cache\tools\android_sdk                                                         subprocess.py:827
+           >>>     JAVA_HOME=C:\Users\clema\AppData\Local\BeeWare\briefcase\Cache\tools\java17                                                                     subprocess.py:827
+[17:22:36]                                                                                                                                                         subprocess.py:195
+           > Configure project :app                                                                                                                                subprocess.py:195
+           Warning: Python version 3.11 may have fewer packages available. If you experience problems, try switching to version 3.8.                               subprocess.py:195
+                                                                                                                                                                   subprocess.py:195
+           > Task :app:preBuild UP-TO-DATE                                                                                                                         subprocess.py:195
+           > Task :app:preDebugBuild UP-TO-DATE                                                                                                                    subprocess.py:195
+           > Task :app:mergeDebugNativeDebugMetadata NO-SOURCE                                                                                                     subprocess.py:195
+           > Task :app:extractDebugPythonBuildPackages UP-TO-DATE                                                                                                  subprocess.py:195
+[17:22:38]                                                                                                                                                         subprocess.py:195
+           > Task :app:generateDebugPythonRequirements                                                                                                             subprocess.py:195
+           Chaquopy: Installing for arm64-v8a                                                                                                                      subprocess.py:195
+           Looking in indexes: https://pypi.org/simple, https://chaquo.com/pypi-13.1                                                                               subprocess.py:195
+[17:22:39] Collecting toga-android~=0.4.5                                                                                                                          subprocess.py:195
+             Using cached toga_android-0.4.6-py3-none-any.whl (67 kB)                                                                                              subprocess.py:195
+           Collecting pygame==2.1.0                                                                                                                                subprocess.py:195
+             Using cached pygame-2.1.0.tar.gz (5.8 MB)                                                                                                             subprocess.py:195
+[17:22:52]     ERROR: Command errored out with exit status 1:                                                                                                      subprocess.py:195
+                command: 'C:\Users\clema\OneDrive\Documentos\Brick\brickgame\build\brickgame\android\gradle\app\build\python\env\debug\Scripts\python.exe' -c      subprocess.py:195
+           'import sys, setuptools, tokenize; sys.argv[0] = '"'"'C:\\Users\\clema\\AppData\\Local\\Temp\\pip-install-d5z_yvf1\\pygame\\setup.py'"'"';                               
+           __file__='"'"'C:\\Users\\clema\\AppData\\Local\\Temp\\pip-install-d5z_yvf1\\pygame\\setup.py'"'"';import chaquopy_monkey;                                                
+           chaquopy_monkey.disable_native();f=getattr(tokenize, '"'"'open'"'"', open)(__file__);code=f.read().replace('"'"'\r\n'"'"',                                               
+           '"'"'\n'"'"');f.close();exec(compile(code, __file__, '"'"'exec'"'"'))' --no-user-cfg egg_info --egg-base                                                                 
+           'C:\Users\clema\AppData\Local\Temp\pip-pip-egg-info-sljcsm8i'                                                                                                            
+                    cwd: C:\Users\clema\AppData\Local\Temp\pip-install-d5z_yvf1\pygame\                                                                            subprocess.py:195
+               Complete output (76 lines):                                                                                                                         subprocess.py:195
+                                                                                                                                                                   subprocess.py:195
+                                                                                                                                                                   subprocess.py:195
+               WARNING, No "Setup" File Exists, Running "buildconfig/config.py"                                                                                    subprocess.py:195
+               Using WINDOWS configuration...                                                                                                                      subprocess.py:195
+                                                                                                                                                                   subprocess.py:195
+               Traceback (most recent call last):                                                                                                                  subprocess.py:195
+                 File "<string>", line 1, in <module>                                                                                                              subprocess.py:195
+                 File "C:\Users\clema\AppData\Local\Temp\pip-install-d5z_yvf1\pygame\setup.py", line 388, in <module>                                              subprocess.py:195
+                   buildconfig.config.main(AUTO_CONFIG)                                                                                                            subprocess.py:195
+                 File "C:\Users\clema\AppData\Local\Temp\pip-install-d5z_yvf1\pygame\buildconfig\config.py", line 234, in main                                     subprocess.py:195
+                   deps = CFG.main(**kwds)                                                                                                                         subprocess.py:195
+                          ^^^^^^^^^^^^^^^^                                                                                                                         subprocess.py:195
+                 File "C:\Users\clema\AppData\Local\Temp\pip-install-d5z_yvf1\pygame\buildconfig\config_win.py", line 511, in main                                 subprocess.py:195
+                   return setup_prebuilt_sdl2(prebuilt_dir)                                                                                                        subprocess.py:195
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^                                                                                                        subprocess.py:195
+                 File "C:\Users\clema\AppData\Local\Temp\pip-install-d5z_yvf1\pygame\buildconfig\config_win.py", line 471, in setup_prebuilt_sdl2                  subprocess.py:195
+                   DEPS.configure()                                                                                                                                subprocess.py:195
+                 File "C:\Users\clema\AppData\Local\Temp\pip-install-d5z_yvf1\pygame\buildconfig\config_win.py", line 336, in configure                            subprocess.py:195
+                   from . import vstools                                                                                                                           subprocess.py:195
+                 File "C:\Users\clema\AppData\Local\Temp\pip-install-d5z_yvf1\pygame\buildconfig\vstools.py", line 11, in <module>                                 subprocess.py:195
+                   compiler.initialize()                                                                                                                           subprocess.py:195
+                 File                                                                                                                                              subprocess.py:195
+           "C:\Users\clema\OneDrive\Documentos\Brick\brickgame\build\brickgame\android\gradle\app\build\python\env\debug\Lib\site-packages\setuptools\_distutils\m                  
+           svc9compiler.py", line 403, in initialize                                                                                                                                
+                   vc_env = query_vcvarsall(VERSION, plat_spec)                                                                                                    subprocess.py:195
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^                                                                                                    subprocess.py:195
+                 File                                                                                                                                              subprocess.py:195
+           "C:\Users\clema\OneDrive\Documentos\Brick\brickgame\build\brickgame\android\gradle\app\build\python\env\debug\Lib\site-packages\setuptools\_distutils\m                  
+           svc9compiler.py", line 281, in query_vcvarsall                                                                                                                           
+                   raise DistutilsPlatformError("Unable to find vcvarsall.bat")                                                                                    subprocess.py:195
+               distutils.errors.DistutilsPlatformError: Unable to find vcvarsall.bat                                                                               subprocess.py:195
+               Making dir :prebuilt_downloads:                                                                                                                     subprocess.py:195
+               Downloading... https://www.libsdl.org/release/SDL2-devel-2.0.16-VC.zip 13d952c333f3c2ebe9b7bc0075b4ad2f784e7584                                     subprocess.py:195
+               Unzipping :prebuilt_downloads\SDL2-devel-2.0.16-VC.zip:                                                                                             subprocess.py:195
+               Downloading... https://www.libsdl.org/projects/SDL_image/release/SDL2_image-devel-2.0.5-VC.zip 137f86474691f4e12e76e07d58d5920c8d844d5b             subprocess.py:195
+               Unzipping :prebuilt_downloads\SDL2_image-devel-2.0.5-VC.zip:                                                                                        subprocess.py:195
+               Downloading... https://www.libsdl.org/projects/SDL_ttf/release/SDL2_ttf-devel-2.0.15-VC.zip 1436df41ebc47ac36e02ec9bda5699e80ff9bd27                subprocess.py:195
+               Unzipping :prebuilt_downloads\SDL2_ttf-devel-2.0.15-VC.zip:                                                                                         subprocess.py:195
+               Downloading... https://www.libsdl.org/projects/SDL_mixer/release/SDL2_mixer-devel-2.0.4-VC.zip 9097148f4529cf19f805ccd007618dec280f0ecc             subprocess.py:195
+               Unzipping :prebuilt_downloads\SDL2_mixer-devel-2.0.4-VC.zip:                                                                                        subprocess.py:195
+               Downloading... https://www.pygame.org/ftp/jpegsr9d.zip ed10aa2b5a0fcfe74f8a6f7611aeb346b06a1f99                                                     subprocess.py:195
+               Unzipping :prebuilt_downloads\jpegsr9d.zip:                                                                                                         subprocess.py:195
+               Downloading... https://pygame.org/ftp/prebuilt-x64-pygame-1.9.2-20150922.zip 3a5af3427b3aa13a0aaf5c4cb08daaed341613ed                               subprocess.py:195
+               Unzipping :prebuilt_downloads\prebuilt-x64-pygame-1.9.2-20150922.zip:                                                                               subprocess.py:195
+               copying into .\prebuilt-x64                                                                                                                         subprocess.py:195
+               Path for SDL: prebuilt-x64\SDL2-2.0.16                                                                                                              subprocess.py:195
+               ...Library directory for SDL: prebuilt-x64/SDL2-2.0.16/lib/x64                                                                                      subprocess.py:195
+               ...Include directory for SDL: prebuilt-x64/SDL2-2.0.16/include                                                                                      subprocess.py:195
+               Path for FONT: prebuilt-x64\SDL2_ttf-2.0.15                                                                                                         subprocess.py:195
+               ...Library directory for FONT: prebuilt-x64/SDL2_ttf-2.0.15/lib/x64                                                                                 subprocess.py:195
+               ...Include directory for FONT: prebuilt-x64/SDL2_ttf-2.0.15/include                                                                                 subprocess.py:195
+               Path for IMAGE: prebuilt-x64\SDL2_image-2.0.5                                                                                                       subprocess.py:195
+               ...Library directory for IMAGE: prebuilt-x64/SDL2_image-2.0.5/lib/x64                                                                               subprocess.py:195
+               ...Include directory for IMAGE: prebuilt-x64/SDL2_image-2.0.5/include                                                                               subprocess.py:195
+               Path for MIXER: prebuilt-x64\SDL2_mixer-2.0.4                                                                                                       subprocess.py:195
+               ...Library directory for MIXER: prebuilt-x64/SDL2_mixer-2.0.4/lib/x64                                                                               subprocess.py:195
+               ...Include directory for MIXER: prebuilt-x64/SDL2_mixer-2.0.4/include                                                                               subprocess.py:195
+               Path for PORTMIDI: prebuilt-x64                                                                                                                     subprocess.py:195
+               ...Library directory for PORTMIDI: prebuilt-x64/lib                                                                                                 subprocess.py:195
+               ...Include directory for PORTMIDI: prebuilt-x64/include                                                                                             subprocess.py:195
+               DLL for SDL2: prebuilt-x64/SDL2-2.0.16/lib/x64/SDL2.dll                                                                                             subprocess.py:195
+               DLL for SDL2_ttf: prebuilt-x64/SDL2_ttf-2.0.15/lib/x64/SDL2_ttf.dll                                                                                 subprocess.py:195
+               DLL for SDL2_image: prebuilt-x64/SDL2_image-2.0.5/lib/x64/SDL2_image.dll                                                                            subprocess.py:195
+               DLL for SDL2_mixer: prebuilt-x64/SDL2_mixer-2.0.4/lib/x64/SDL2_mixer.dll                                                                            subprocess.py:195
+               DLL for portmidi: prebuilt-x64/lib/portmidi.dll                                                                                                     subprocess.py:195
+               Path for FREETYPE not found.                                                                                                                        subprocess.py:195
+               ...Found include dir but no library dir in prebuilt-x64.                                                                                            subprocess.py:195
+               Path for PNG not found.                                                                                                                             subprocess.py:195
+               ...Found include dir but no library dir in prebuilt-x64.                                                                                            subprocess.py:195
+               Path for JPEG not found.                                                                                                                            subprocess.py:195
+               ...Found include dir but no library dir in prebuilt-x64.                                                                                            subprocess.py:195
+               DLL for freetype: prebuilt-x64/SDL2_ttf-2.0.15/lib/x64/libfreetype-6.dll                                                                            subprocess.py:195
+                                                                                                                                                                   subprocess.py:195
+               ---                                                                                                                                                 subprocess.py:195
+               For help with compilation see:                                                                                                                      subprocess.py:195
+                   https://www.pygame.org/wiki/CompileWindows                                                                                                      subprocess.py:195
+               To contribute to pygame development see:                                                                                                            subprocess.py:195
+                   https://www.pygame.org/contribute.html                                                                                                          subprocess.py:195
+               ---                                                                                                                                                 subprocess.py:195
+                                                                                                                                                                   subprocess.py:195
+               ----------------------------------------                                                                                                            subprocess.py:195
+           ERROR: Failed to install pygame==2.1.0 from                                                                                                             subprocess.py:195
+           https://files.pythonhosted.org/packages/7c/c0/57f9709e2e542a6af8fe4623627a74329869cdc21f03486f521c7b90fc57/pygame-2.1.0.tar.gz#sha256=232e51104db0e5732                  
+           21660d172af8e6fc2c0fda183c5dbf2aa52170f29aa9ec9 (from -r requirements.txt (line 3)).                                                                                     
+           For assistance, please raise an issue at https://github.com/chaquo/chaquopy/issues.                                                                     subprocess.py:195
+           Chaquopy: Exit status 1                                                                                                                                 subprocess.py:195
+                                                                                                                                                                   subprocess.py:195
+           > Task :app:generateDebugPythonRequirements FAILED                                                                                                      subprocess.py:195
+                                                                                                                                                                   subprocess.py:195
+           FAILURE: Build failed with an exception.                                                                                                                subprocess.py:195
+                                                                                                                                                                   subprocess.py:195
+           * What went wrong:                                                                                                                                      subprocess.py:195
+           Execution failed for task ':app:generateDebugPythonRequirements'.                                                                                       subprocess.py:195
+           > Process 'command 'C:\Users\clema\OneDrive\Documentos\Brick\brickgame\build\brickgame\android\gradle\app\build\python\env\debug\Scripts\python.exe''   subprocess.py:195
+           finished with non-zero exit value 1                                                                                                                                      
+                                                                                                                                                                   subprocess.py:195
+             To view full details in Android Studio:                                                                                                               subprocess.py:195
+             * Click the 'Build: failed' caption to the left of this message.                                                                                      subprocess.py:195
+             * Then scroll up to see the full output.                                                                                                              subprocess.py:195
+                                                                                                                                                                   subprocess.py:195
+           * Try:                                                                                                                                                  subprocess.py:195
+           > Run with --stacktrace option to get the stack trace.                                                                                                  subprocess.py:195
+           > Run with --info or --debug option to get more log output.                                                                                             subprocess.py:195
+           > Run with --scan to get full insights.                                                                                                                 subprocess.py:195
+           > Get more help at https://help.gradle.org.                                                                                                             subprocess.py:195
+                                                                                                                                                                   subprocess.py:195
+           BUILD FAILED in 17s                                                                                                                                     subprocess.py:195
+           2 actionable tasks: 1 executed, 1 up-to-date                                                                                                            subprocess.py:195
+[17:22:53] >>> Return code: 1                                                                                                                                      subprocess.py:827
+           Building... errored                                                                                                                                         gradle.py:323
+                                                                                                                                                                      __main__.py:44
+           Error while building project.                                                                                                                              __main__.py:45
+           Saving log... started                                                                                                                                      console.py:390
+
+Main thread traceback:
+╭─────────────────────────────────────────────────────────────────────── Traceback (most recent call last) ────────────────────────────────────────────────────────────────────────╮
+│ C:\Users\clema\.pyenv\pyenv-win\versions\3.11.7\Lib\site-packages\briefcase\platforms\android\gradle.py:325 in build_app                                                         │
+│                                                                                                                                                                                  │
+│   322 │   │   self.logger.info("Building Android APK...", prefix=app.app_name)                                                                                                   │
+│   323 │   │   with self.input.wait_bar("Building..."):                                                                                                                           │
+│   324 │   │   │   try:                                                                                                                                                           │
+│ ❱ 325 │   │   │   │   self.run_gradle(app, ["assembleDebug"])                                                                                                                    │
+│   326 │   │   │   except subprocess.CalledProcessError as e:                                                                                                                     │
+│   327 │   │   │   │   raise BriefcaseCommandError("Error while building project.") from e                                                                                        │
+│   328                                                                                                                                                                            │
+│                                                                                                                                                                                  │
+│ ╭───────────────────────────────────────────── locals ─────────────────────────────────────────────╮                                                                             │
+│ │       app = <com.example.brickgame v0.0.1 AppConfig>                                             │                                                                             │
+│ │    kwargs = {}                                                                                   │                                                                             │
+│ │      self = <briefcase.platforms.android.gradle.GradleBuildCommand object at 0x00000222066FB590> │                                                                             │
+│ │ test_mode = False                                                                                │                                                                             │
+│ ╰──────────────────────────────────────────────────────────────────────────────────────────────────╯                                                                             │
+│                                                                                                                                                                                  │
+│ C:\Users\clema\.pyenv\pyenv-win\versions\3.11.7\Lib\site-packages\briefcase\platforms\android\gradle.py:118 in run_gradle                                                        │
+│                                                                                                                                                                                  │
+│   115 │   │   self.tools.android_sdk.verify_emulator()                                                                                                                           │
+│   116 │   │                                                                                                                                                                      │
+│   117 │   │   gradlew = "gradlew.bat" if self.tools.host_os == "Windows" else "gradlew"                                                                                          │
+│ ❱ 118 │   │   self.tools.subprocess.run(                                                                                                                                         │
+│   119 │   │   │   # Windows needs the full path to `gradlew`; macOS & Linux can find it                                                                                          │
+│   120 │   │   │   # via `./gradlew`. For simplicity of implementation, we always provide                                                                                         │
+│   121 │   │   │   # the full path.                                                                                                                                               │
+│                                                                                                                                                                                  │
+│ ╭──────────────────────────────────────────── locals ────────────────────────────────────────────╮                                                                               │
+│ │     app = <com.example.brickgame v0.0.1 AppConfig>                                             │                                                                               │
+│ │    args = ['assembleDebug']                                                                    │                                                                               │
+│ │ gradlew = 'gradlew.bat'                                                                        │                                                                               │
+│ │    self = <briefcase.platforms.android.gradle.GradleBuildCommand object at 0x00000222066FB590> │                                                                               │
+│ ╰────────────────────────────────────────────────────────────────────────────────────────────────╯                                                                               │
+│                                                                                                                                                                                  │
+│ C:\Users\clema\.pyenv\pyenv-win\versions\3.11.7\Lib\site-packages\briefcase\integrations\subprocess.py:142 in inner                                                              │
+│                                                                                                                                                                                  │
+│   139 │   │   # Run subprocess command with or without console control                                                                                                           │
+│   140 │   │   if remove_dynamic_elements:                                                                                                                                        │
+│   141 │   │   │   with sub.tools.input.release_console_control():                                                                                                                │
+│ ❱ 142 │   │   │   │   return sub_method(sub, args, *wrapped_args, **wrapped_kwargs)                                                                                              │
+│   143 │   │   else:                                                                                                                                                              │
+│   144 │   │   │   return sub_method(sub, args, *wrapped_args, **wrapped_kwargs)                                                                                                  │
+│   145                                                                                                                                                                            │
+│                                                                                                                                                                                  │
+│ ╭────────────────────────────────────────────────────────────────── locals ───────────────────────────────────────────────────────────────────╮                                  │
+│ │                    args = [                                                                                                                 │                                  │
+│ │                           │   WindowsPath('C:/Users/clema/OneDrive/Documentos/Brick/brickgame/build/brickgame/android/gradle/gradlew.bat'), │                                  │
+│ │                           │   '--console',                                                                                                  │                                  │
+│ │                           │   'plain',                                                                                                      │                                  │
+│ │                           │   'assembleDebug'                                                                                               │                                  │
+│ │                           ]                                                                                                                 │                                  │
+│ │              executable = 'C:\\Users\\clema\\OneDrive\\Documentos\\Brick\\brickgame\\build\\brickgame\\android\\gradl'+13                   │                                  │
+│ │ remove_dynamic_elements = True                                                                                                              │                                  │
+│ │                     sub = <briefcase.integrations.subprocess.Subprocess object at 0x0000022202E65790>                                       │                                  │
+│ │              sub_method = <function Subprocess.run at 0x00000222067249A0>                                                                   │                                  │
+│ │            wrapped_args = ()                                                                                                                │                                  │
+│ │          wrapped_kwargs = {                                                                                                                 │                                  │
+│ │                           │   'env': {                                                                                                      │                                  │
+│ │                           │   │   'ANDROID_HOME': 'C:\\Users\\clema\\AppData\\Local\\BeeWare\\briefcase\\Cache\\tools\\android_sdk',        │                                  │
+│ │                           │   │   'ANDROID_SDK_ROOT': 'C:\\Users\\clema\\AppData\\Local\\BeeWare\\briefcase\\Cache\\tools\\android_sdk',    │                                  │
+│ │                           │   │   'JAVA_HOME': 'C:\\Users\\clema\\AppData\\Local\\BeeWare\\briefcase\\Cache\\tools\\java17'                 │                                  │
+│ │                           │   },                                                                                                            │                                  │
+│ │                           │   'cwd': WindowsPath('C:/Users/clema/OneDrive/Documentos/Brick/brickgame/build/brickgame/android/gradle'),      │                                  │
+│ │                           │   'check': True,                                                                                                │                                  │
+│ │                           │   'encoding': 'CP1252'                                                                                          │                                  │
+│ │                           }                                                                                                                 │                                  │
+│ ╰─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯                                  │
+│                                                                                                                                                                                  │
+│ C:\Users\clema\.pyenv\pyenv-win\versions\3.11.7\Lib\site-packages\briefcase\integrations\subprocess.py:539 in run                                                                │
+│                                                                                                                                                                                  │
+│   536 │   │   # caller sets stream_output=False, then ensure_console_is_safe() will                                                                                              │
+│   537 │   │   # disable any dynamic console elements while the command runs.                                                                                                     │
+│   538 │   │   if stream_output:                                                                                                                                                  │
+│ ❱ 539 │   │   │   return self._run_and_stream_output(args, filter_func=filter_func, **kwargs)                                                                                    │
+│   540 │   │                                                                                                                                                                      │
+│   541 │   │   # Can't filter non-streamed output.                                                                                                                                │
+│   542 │   │   if filter_func:                                                                                                                                                    │
+│                                                                                                                                                                                  │
+│ ╭─────────────────────────────────────────────────────────────────────────────── locals ────────────────────────────────────────────────────────────────────────────────╮        │
+│ │          args = [WindowsPath('C:/Users/clema/OneDrive/Documentos/Brick/brickgame/build/brickgame/android/gradle/gradlew.bat'), '--console', 'plain', 'assembleDebug'] │        │
+│ │   filter_func = None                                                                                                                                                  │        │
+│ │        kwargs = {                                                                                                                                                     │        │
+│ │                 │   'env': {                                                                                                                                          │        │
+│ │                 │   │   'ANDROID_HOME': 'C:\\Users\\clema\\AppData\\Local\\BeeWare\\briefcase\\Cache\\tools\\android_sdk',                                            │        │
+│ │                 │   │   'ANDROID_SDK_ROOT': 'C:\\Users\\clema\\AppData\\Local\\BeeWare\\briefcase\\Cache\\tools\\android_sdk',                                        │        │
+│ │                 │   │   'JAVA_HOME': 'C:\\Users\\clema\\AppData\\Local\\BeeWare\\briefcase\\Cache\\tools\\java17'                                                     │        │
+│ │                 │   },                                                                                                                                                │        │
+│ │                 │   'cwd': WindowsPath('C:/Users/clema/OneDrive/Documentos/Brick/brickgame/build/brickgame/android/gradle'),                                          │        │
+│ │                 │   'check': True,                                                                                                                                    │        │
+│ │                 │   'encoding': 'CP1252'                                                                                                                              │        │
+│ │                 }                                                                                                                                                     │        │
+│ │          self = <briefcase.integrations.subprocess.Subprocess object at 0x0000022202E65790>                                                                           │        │
+│ │ stream_output = True                                                                                                                                                  │        │
+│ ╰───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯        │
+│                                                                                                                                                                                  │
+│ C:\Users\clema\.pyenv\pyenv-win\versions\3.11.7\Lib\site-packages\briefcase\integrations\subprocess.py:615 in _run_and_stream_output                                             │
+│                                                                                                                                                                                  │
+│   612 │   │   self._log_return_code(return_code)                                                                                                                                 │
+│   613 │   │                                                                                                                                                                      │
+│   614 │   │   if check and return_code:                                                                                                                                          │
+│ ❱ 615 │   │   │   raise subprocess.CalledProcessError(return_code, args, stderr=stderr)                                                                                          │
+│   616 │   │                                                                                                                                                                      │
+│   617 │   │   return subprocess.CompletedProcess(args, return_code, stderr=stderr)                                                                                               │
+│   618                                                                                                                                                                            │
+│                                                                                                                                                                                  │
+│ ╭────────────────────────────────────────────────────────────────────────────── locals ───────────────────────────────────────────────────────────────────────────────╮          │
+│ │        args = [WindowsPath('C:/Users/clema/OneDrive/Documentos/Brick/brickgame/build/brickgame/android/gradle/gradlew.bat'), '--console', 'plain', 'assembleDebug'] │          │
+│ │       check = True                                                                                                                                                  │          │
+│ │ filter_func = None                                                                                                                                                  │          │
+│ │      kwargs = {                                                                                                                                                     │          │
+│ │               │   'env': {                                                                                                                                          │          │
+│ │               │   │   'ANDROID_HOME': 'C:\\Users\\clema\\AppData\\Local\\BeeWare\\briefcase\\Cache\\tools\\android_sdk',                                            │          │
+│ │               │   │   'ANDROID_SDK_ROOT': 'C:\\Users\\clema\\AppData\\Local\\BeeWare\\briefcase\\Cache\\tools\\android_sdk',                                        │          │
+│ │               │   │   'JAVA_HOME': 'C:\\Users\\clema\\AppData\\Local\\BeeWare\\briefcase\\Cache\\tools\\java17'                                                     │          │
+│ │               │   },                                                                                                                                                │          │
+│ │               │   'cwd': WindowsPath('C:/Users/clema/OneDrive/Documentos/Brick/brickgame/build/brickgame/android/gradle'),                                          │          │
+│ │               │   'encoding': 'CP1252',                                                                                                                             │          │
+│ │               │   'stdout': -1,                                                                                                                                     │          │
+│ │               │   'stderr': -2,                                                                                                                                     │          │
+│ │               │   'bufsize': 1                                                                                                                                      │          │
+│ │               }                                                                                                                                                     │          │
+│ │     process = <Popen: returncode: 1 args: ['C:\\Users\\clema\\OneDrive\\Documentos\\Brick\...>                                                                      │          │
+│ │ return_code = 1                                                                                                                                                     │          │
+│ │        self = <briefcase.integrations.subprocess.Subprocess object at 0x0000022202E65790>                                                                           │          │
+│ │      stderr = None                                                                                                                                                  │          │
+│ ╰─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯          │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+CalledProcessError: Command '[WindowsPath('C:/Users/clema/OneDrive/Documentos/Brick/brickgame/build/brickgame/android/gradle/gradlew.bat'), '--console', 'plain', 'assembleDebug']' returned non-zero exit status 1.
+
+The above exception was the direct cause of the following exception:
+
+╭─────────────────────────────────────────────────────────────────────── Traceback (most recent call last) ────────────────────────────────────────────────────────────────────────╮
+│ C:\Users\clema\.pyenv\pyenv-win\versions\3.11.7\Lib\site-packages\briefcase\__main__.py:29 in main                                                                               │
+│                                                                                                                                                                                  │
+│   26 │   │   │   Path.cwd() / "pyproject.toml",                                                                                                                                  │
+│   27 │   │   │   overrides=overrides,                                                                                                                                            │
+│   28 │   │   )                                                                                                                                                                   │
+│ ❱ 29 │   │   command(**options)                                                                                                                                                  │
+│   30 │   except HelpText as e:                                                                                                                                                   │
+│   31 │   │   logger.info()                                                                                                                                                       │
+│   32 │   │   logger.info(str(e))                                                                                                                                                 │
+│                                                                                                                                                                                  │
+│ ╭─────────────────────────────────────────────── locals ───────────────────────────────────────────────╮                                                                         │
+│ │       command = <briefcase.platforms.android.gradle.GradleBuildCommand object at 0x00000222066FB590> │                                                                         │
+│ │       Command = <class 'briefcase.platforms.android.gradle.GradleBuildCommand'>                      │                                                                         │
+│ │       console = <briefcase.console.Console object at 0x0000022206808550>                             │                                                                         │
+│ │             e = BriefcaseCommandError('Error while building project.')                               │                                                                         │
+│ │ extra_cmdline = []                                                                                   │                                                                         │
+│ │        logger = <briefcase.console.Log object at 0x00000222068085D0>                                 │                                                                         │
+│ │       options = {                                                                                    │                                                                         │
+│ │                 │   'update': False,                                                                 │                                                                         │
+│ │                 │   'update_requirements': False,                                                    │                                                                         │
+│ │                 │   'update_support': False,                                                         │                                                                         │
+│ │                 │   'update_stub': False,                                                            │                                                                         │
+│ │                 │   'update_resources': False,                                                       │                                                                         │
+│ │                 │   'no_update': False,                                                              │                                                                         │
+│ │                 │   'test_mode': False                                                               │                                                                         │
+│ │                 }                                                                                    │                                                                         │
+│ │     overrides = {}                                                                                   │                                                                         │
+│ │       printer = <briefcase.console.Printer object at 0x0000022202F11C90>                             │                                                                         │
+│ │        result = 200                                                                                  │                                                                         │
+│ ╰──────────────────────────────────────────────────────────────────────────────────────────────────────╯                                                                         │
+│                                                                                                                                                                                  │
+│ C:\Users\clema\.pyenv\pyenv-win\versions\3.11.7\Lib\site-packages\briefcase\commands\build.py:141 in __call__                                                                    │
+│                                                                                                                                                                                  │
+│   138 │   │   else:                                                                                                                                                              │
+│   139 │   │   │   state = None                                                                                                                                                   │
+│   140 │   │   │   for app_name, app in sorted(self.apps.items()):                                                                                                                │
+│ ❱ 141 │   │   │   │   state = self._build_app(                                                                                                                                   │
+│   142 │   │   │   │   │   app,                                                                                                                                                   │
+│   143 │   │   │   │   │   update=update,                                                                                                                                         │
+│   144 │   │   │   │   │   update_requirements=update_requirements,                                                                                                               │
+│                                                                                                                                                                                  │
+│ ╭────────────────────────────────────────────────── locals ──────────────────────────────────────────────────╮                                                                   │
+│ │                 app = <com.example.brickgame v0.0.1 AppConfig>                                             │                                                                   │
+│ │            app_name = 'brickgame'                                                                          │                                                                   │
+│ │           no_update = False                                                                                │                                                                   │
+│ │             options = {}                                                                                   │                                                                   │
+│ │                self = <briefcase.platforms.android.gradle.GradleBuildCommand object at 0x00000222066FB590> │                                                                   │
+│ │               state = None                                                                                 │                                                                   │
+│ │           test_mode = False                                                                                │                                                                   │
+│ │              update = False                                                                                │                                                                   │
+│ │ update_requirements = False                                                                                │                                                                   │
+│ │    update_resources = False                                                                                │                                                                   │
+│ │         update_stub = False                                                                                │                                                                   │
+│ │      update_support = False                                                                                │                                                                   │
+│ ╰────────────────────────────────────────────────────────────────────────────────────────────────────────────╯                                                                   │
+│                                                                                                                                                                                  │
+│ C:\Users\clema\.pyenv\pyenv-win\versions\3.11.7\Lib\site-packages\briefcase\commands\build.py:77 in _build_app                                                                   │
+│                                                                                                                                                                                  │
+│    74 │   │                                                                                                                                                                      │
+│    75 │   │   self.verify_app(app)                                                                                                                                               │
+│    76 │   │                                                                                                                                                                      │
+│ ❱  77 │   │   state = self.build_app(app, test_mode=test_mode, **full_options(state, options))                                                                                   │
+│    78 │   │                                                                                                                                                                      │
+│    79 │   │   qualifier = " (test mode)" if test_mode else ""                                                                                                                    │
+│    80 │   │   self.logger.info(                                                                                                                                                  │
+│                                                                                                                                                                                  │
+│ ╭────────────────────────────────────────────────── locals ──────────────────────────────────────────────────╮                                                                   │
+│ │                 app = <com.example.brickgame v0.0.1 AppConfig>                                             │                                                                   │
+│ │           no_update = False                                                                                │                                                                   │
+│ │             options = {}                                                                                   │                                                                   │
+│ │                self = <briefcase.platforms.android.gradle.GradleBuildCommand object at 0x00000222066FB590> │                                                                   │
+│ │               state = None                                                                                 │                                                                   │
+│ │           test_mode = False                                                                                │                                                                   │
+│ │              update = False                                                                                │                                                                   │
+│ │ update_requirements = False                                                                                │                                                                   │
+│ │    update_resources = False                                                                                │                                                                   │
+│ │         update_stub = False                                                                                │                                                                   │
+│ │      update_support = False                                                                                │                                                                   │
+│ ╰────────────────────────────────────────────────────────────────────────────────────────────────────────────╯                                                                   │
+│                                                                                                                                                                                  │
+│ C:\Users\clema\.pyenv\pyenv-win\versions\3.11.7\Lib\site-packages\briefcase\platforms\android\gradle.py:327 in build_app                                                         │
+│                                                                                                                                                                                  │
+│   324 │   │   │   try:                                                                                                                                                           │
+│   325 │   │   │   │   self.run_gradle(app, ["assembleDebug"])                                                                                                                    │
+│   326 │   │   │   except subprocess.CalledProcessError as e:                                                                                                                     │
+│ ❱ 327 │   │   │   │   raise BriefcaseCommandError("Error while building project.") from e                                                                                        │
+│   328                                                                                                                                                                            │
+│   329                                                                                                                                                                            │
+│   330 class GradleRunCommand(GradleMixin, RunCommand):                                                                                                                           │
+│                                                                                                                                                                                  │
+│ ╭───────────────────────────────────────────── locals ─────────────────────────────────────────────╮                                                                             │
+│ │       app = <com.example.brickgame v0.0.1 AppConfig>                                             │                                                                             │
+│ │    kwargs = {}                                                                                   │                                                                             │
+│ │      self = <briefcase.platforms.android.gradle.GradleBuildCommand object at 0x00000222066FB590> │                                                                             │
+│ │ test_mode = False                                                                                │                                                                             │
+│ ╰──────────────────────────────────────────────────────────────────────────────────────────────────╯                                                                             │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+BriefcaseCommandError: Error while building project.
+           Collecting extra information for log... started                                                                                                            console.py:425
+                                                                                                                                                                      console.py:429
+           Extra information:                                                                                                                                         console.py:430
+                                                                                                                                                                   subprocess.py:827
+           >>> Running Command:                                                                                                                                    subprocess.py:827
+           >>>     'C:\Users\clema\AppData\Local\BeeWare\briefcase\Cache\tools\android_sdk\cmdline-tools\12.0\bin\sdkmanager.bat' --list_installed                 subprocess.py:827
+           >>> Working Directory:                                                                                                                                  subprocess.py:827
+           >>>     C:\Users\clema\OneDrive\Documentos\Brick\brickgame                                                                                              subprocess.py:827
+           >>> Environment Overrides:                                                                                                                              subprocess.py:827
+           >>>     ANDROID_HOME=C:\Users\clema\AppData\Local\BeeWare\briefcase\Cache\tools\android_sdk                                                             subprocess.py:827
+           >>>     ANDROID_SDK_ROOT=C:\Users\clema\AppData\Local\BeeWare\briefcase\Cache\tools\android_sdk                                                         subprocess.py:827
+           >>>     JAVA_HOME=C:\Users\clema\AppData\Local\BeeWare\briefcase\Cache\tools\java17                                                                     subprocess.py:827
+[17:22:54] >>> Command Output:                                                                                                                                     subprocess.py:827
+           >>>     Loading package information...                                                                                                                  subprocess.py:827
+           >>>     Loading local repository...                                                                                                                     subprocess.py:827
+           >>>     [=========                              ] 25% Loading local repository...                                                                       subprocess.py:827
+           >>>     [=========                              ] 25% Fetch remote repository...                                                                        subprocess.py:827
+           >>>     [=======================================] 100% Fetch remote repository...                                                                       subprocess.py:827
+           >>>                                                                                                                                                     subprocess.py:827
+           >>>     Installed packages:                                                                                                                             subprocess.py:827
+           >>>       Path                 | Version | Description                | Location                                                                        subprocess.py:827
+           >>>       -------              | ------- | -------                    | -------                                                                         subprocess.py:827
+           >>>       build-tools;34.0.0   | 34.0.0  | Android SDK Build-Tools 34 | build-tools\34.0.0                                                              subprocess.py:827
+           >>>       emulator             | 35.1.20 | Android Emulator           | emulator                                                                        subprocess.py:827
+           >>>       platform-tools       | 35.0.2  | Android SDK Platform-Tools | platform-tools                                                                  subprocess.py:827
+           >>>       platforms;android-34 | 3       | Android SDK Platform 34    | platforms\android-34                                                            subprocess.py:827
+           >>>                                                                                                                                                     subprocess.py:827
+           >>> Return code: 0                                                                                                                                      subprocess.py:827
+           Collecting extra information for log... done                                                                                                               console.py:425
